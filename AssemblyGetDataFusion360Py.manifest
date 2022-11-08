@@ -1,0 +1,10 @@
+{
+	"autodeskProduct":	"Fusion360",
+	"type":	"script",
+	"author":	"Henrique Hafner",
+	"description":	{
+		"":	"A script to get assembly data from current design."
+	},
+	"supportedOS":	"windows|mac",
+	"editEnabled":	true
+}
